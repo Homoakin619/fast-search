@@ -1,5 +1,7 @@
-.vscode
 .DS_Store
 internal/storage/data
 __pycache__
 internal/storage/raft
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
